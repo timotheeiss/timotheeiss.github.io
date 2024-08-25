@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+tbody {
+    font-weight: 700;
+    color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+table tbody td {
+    border: 1px solid;
+}
